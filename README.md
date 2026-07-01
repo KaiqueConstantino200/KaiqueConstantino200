@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kaique%20Coutinho&fontSize=46&fontColor=FFFFFF&desc=Data%20%26%20S%26OP%20Analytics&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<h1>Kaique Coutinho</h1>
+<h3>Data & S&OP Trainee | Data Science | Statistics | Business Analytics</h3>
 
 <a href="https://www.linkedin.com/in/kaique-coutinho/">
   <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Coutinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +13,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Demand+Forecasting+%26+Time+Series+Analysis;S%26OP+and+Supply+Chain+Analytics;Statistics+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+business+problems+into+data+products" alt="Typing SVG" />
+<!-- Light/dark variant so the text stays readable on both GitHub themes -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&lines=Demand+Forecasting+%26+Time+Series+Analysis;S%26OP+and+Supply+Chain+Analytics;Statistics+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+business+problems+into+data+products" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1B4F72&center=true&vCenter=true&width=650&lines=Demand+Forecasting+%26+Time+Series+Analysis;S%26OP+and+Supply+Chain+Analytics;Statistics+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+business+problems+into+data+products" alt="Typing SVG" />
+</picture>
 
 </div>
 
@@ -51,12 +56,9 @@ My day-to-day work spans **demand forecasting, inventory risk analysis, pricing 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-**Forecasting & Statistical Modeling**
+**Forecasting & Time Series**
 <p>
 <img src="https://img.shields.io/badge/Prophet-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SARIMA-6E44FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LightGBM-00A19A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/statsmodels-8C1C13?style=for-the-badge" />
 </p>
 
@@ -87,13 +89,20 @@ Google Advanced Data Analytics Certificate
 
 Focus areas: probability & inference, regression, time series forecasting, ML fundamentals, data storytelling.
 
+**On my learning roadmap** — exploring beyond the basics of these, not yet applying them at depth:
+<p>
+<img src="https://img.shields.io/badge/SARIMA-6E44FF?style=flat-square" />
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square" />
+<img src="https://img.shields.io/badge/LightGBM-00A19A?style=flat-square" />
+</p>
+
 <br/>
 
 ## What I'm Building
 
 My GitHub portfolio is organized around real business questions, not isolated tutorials:
 
-- **Demand Forecasting Benchmark** — comparing Prophet, SARIMA, XGBoost and LightGBM on accuracy, error stability and interpretability for planning use cases
+- **Demand Forecasting** — building forecasts with Prophet and statsmodels, with plans to compare against ML approaches (SARIMA, XGBoost, LightGBM) as those skills develop
 - **Supply Chain Analytics** — inventory risk, stockout drivers and service-level KPIs from a planning perspective
 - **Power BI Dashboards** — modeled with star schema, DAX and governance best practices, built for storytelling and decision-making, not just reporting
 
@@ -101,13 +110,12 @@ My GitHub portfolio is organized around real business questions, not isolated tu
 
 ## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
+<!-- github-readme-stats.vercel.app (main card + top-langs) is currently unreliable —
+     confirmed broken images on testing. Keeping only the streak card, which works.
+     Ask Claude to set up a self-hosted GitHub Actions version if you want the full stats back reliably. -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <br/>
