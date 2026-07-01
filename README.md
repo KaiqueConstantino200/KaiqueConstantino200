@@ -1,138 +1,135 @@
-<h1 align="center">Kaique Coutinho</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Data & S&OP Trainee | Data Science | Statistics | Business Analytics</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kaique%20Coutinho&fontSize=46&fontColor=FFFFFF&desc=Data%20%26%20S%26OP%20Analytics&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaique-coutinho/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Coutinho-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kaiqueconstantino200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-São%20Paulo,%20Brazil-green?style=for-the-badge" />
-</p>
+<a href="https://www.linkedin.com/in/kaique-coutinho/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Coutinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kaiqueconstantino200@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Location-São%20Paulo,%20Brazil-2E8B57?style=for-the-badge" />
 
----
+<br/><br/>
 
-## About me
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Demand+Forecasting+%26+Time+Series+Analysis;S%26OP+and+Supply+Chain+Analytics;Statistics+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+business+problems+into+data+products" alt="Typing SVG" />
 
-I am a Data and S&OP professional focused on transforming business problems into analytical solutions.
+</div>
 
-Currently, I work with demand forecasting, inventory analysis, pricing, dashboards, ETL processes and business intelligence routines. My work is connected to planning, operations, data quality and decision-making.
+<br/>
 
-I am building a strong foundation in statistics, Python, SQL, machine learning and business analytics, with the goal of becoming a high-impact data professional.
+## About
 
----
+I'm a Data & S&OP professional focused on turning planning and supply chain problems into analytical products — forecasting models, BI dashboards and automated reporting that support real decisions, not dashboards for their own sake.
+
+My day-to-day work spans **demand forecasting, inventory risk analysis, pricing support, dashboard development and ETL routines** inside an S&OP context. In parallel, I'm building a solid technical foundation in statistics, Python, SQL and machine learning to grow into forecasting- and finance-focused data science roles.
+
+**Career direction:** Quantitative Analyst · Analytics Specialist · Forecast Specialist · Senior Data Scientist (Finance / Supply Chain)
+
+<br/>
 
 ## Professional Focus
 
-My main areas of interest are:
+| Area | Applied to |
+|---|---|
+| **Demand Forecasting** | Statistical + ML time series models to reduce forecast error and support S&OP cycles |
+| **Supply Chain Analytics** | Inventory risk, stockout drivers and service-level / planning KPIs |
+| **Business Intelligence** | Executive dashboards designed for action, not just visualization |
+| **Statistics** | Hypothesis testing, regression and inference to validate decisions, not just describe data |
+| **Data Automation** | ETL pipelines and reporting that remove manual, repetitive work |
+| **Finance & Risk** | Quantitative modeling applied to planning and financial risk questions |
 
-* Data Science applied to business problems
-* Demand forecasting and time series analysis
-* Statistics and hypothesis testing
-* Business Intelligence and executive dashboards
-* Data automation and ETL processes
-* Finance, risk analysis and quantitative modeling
-* S&OP, planning and operational analytics
-
----
+<br/>
 
 ## Tech Stack
 
-### Data Analysis and Programming
-
+**Languages & Data Analysis**
 <p>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Dataframes-purple?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### Business Intelligence and Databases
-
+**Forecasting & Statistical Modeling**
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Queries-lightgrey?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Excel-Business%20Analytics-green?style=for-the-badge&logo=microsoftexcel" />
+<img src="https://img.shields.io/badge/Prophet-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SARIMA-6E44FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LightGBM-00A19A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/statsmodels-8C1C13?style=for-the-badge" />
 </p>
 
-### Analytical Areas
-
+**BI & Databases**
 <p>
-  <img src="https://img.shields.io/badge/Statistics-Inference%20%26%20Testing-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forecasting-Time%20Series-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/S%26OP-Planning%20Analytics-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Finance-Risk%20Analysis-critical?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-107C41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
----
+**Statistics**
+<p>
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Distributions-800080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Time%20Series-9932CC?style=for-the-badge" />
+</p>
 
-## Current Learning Path
+<br/>
 
-I am currently strengthening my technical foundation in:
+## Currently Studying
 
 ```text
-Statistics → Python → SQL → Machine Learning → Forecasting → Finance & Risk
+Postgraduate Degree — Data Science & Statistics
+Google Advanced Data Analytics Certificate
 ```
 
-Main topics under development:
+Focus areas: probability & inference, regression, time series forecasting, ML fundamentals, data storytelling.
 
-* Descriptive and inferential statistics
-* Probability and distributions
-* Regression analysis
-* Time series forecasting
-* Machine learning fundamentals
-* Data storytelling
-* Business-oriented analytics
-* Portfolio development with real-world context
+<br/>
 
----
+## What I'm Building
 
-## What I am building
+My GitHub portfolio is organized around real business questions, not isolated tutorials:
 
-I am currently organizing my GitHub portfolio with projects focused on data analysis, business intelligence, forecasting and statistics.
+- **Demand Forecasting Benchmark** — comparing Prophet, SARIMA, XGBoost and LightGBM on accuracy, error stability and interpretability for planning use cases
+- **Supply Chain Analytics** — inventory risk, stockout drivers and service-level KPIs from a planning perspective
+- **Power BI Dashboards** — modeled with star schema, DAX and governance best practices, built for storytelling and decision-making, not just reporting
 
-The objective is to build projects that are not only technical, but also connected to real business questions, such as:
+<br/>
 
-* How accurate is a demand forecast?
-* Which products are generating inventory risk?
-* Where are the biggest gaps between forecast, demand and production?
-* How can dashboards improve S&OP routines?
-* How can statistical models support better planning decisions?
-* How can machine learning be applied to finance and risk analysis?
+## GitHub Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
+</div>
 
-## Professional Principles
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+</div>
 
-I believe good data work requires more than tools. It requires business understanding, analytical reasoning and clear communication.
+<br/>
 
-My approach is based on:
+## How I Work
 
-* Understanding the business problem before choosing the method
-* Building clear and reproducible analyses
-* Using statistics to support better decisions
-* Creating dashboards that generate action, not just visualization
-* Connecting technical work with business impact
+- Understand the business problem before choosing the method
+- Build analyses that are reproducible, not one-off scripts
+- Use statistics to support decisions, not just describe data
+- Design dashboards meant to trigger action
+- Prefer the elegant solution over the quick workaround
 
----
+<br/>
 
-## Contact
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaique-coutinho/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Coutinho-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kaiqueconstantino200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional%20Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kaique-coutinho/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kaiqueconstantino200@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
-
-<p align="center">
-  <em>Building analytical solutions with statistics, business context and data-driven thinking.</em>
-</p>
+</div>
